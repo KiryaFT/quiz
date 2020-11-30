@@ -1,0 +1,13 @@
+body {
+    background: #F5F6F7;
+}
+
+.phone {
+    color: #2E353D;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.hero-navbar {
+    margin-bottom: 96px;
+}
